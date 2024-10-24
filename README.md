@@ -1,6 +1,6 @@
 Potato-leaf-classification 
 Project Overview
-This project is centered on the classification of potato leaves. The main objective is to create a model that can accurately identify potato leaves and detect non potato images, serving as a foundational component for future models. In the subsequent phase, the model will categorize potato leaves into four specific classes:
+This project is centered on the classification of potato leaves. The main objective is to create a model that can accurately identify potato leaves and detect non potato images. In the subsequent phase, the model will categorize potato leaves into four specific classes:
 
 Potato Healthy 
 Potato Late Blight
