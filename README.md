@@ -10,8 +10,11 @@ This project is centered on the classification of potato leaves. The main object
 Structure
 
 api/: Contains main.py for testing the project. test this on postman by using the provided port. when we test each image from each class it show us the class and confidence but if the image is not potato it respond Image is not potato based on the index
+
 saved_models/: this is saved models and scripts related to the model architecture.
+
 training/: Contains different dataset classified on four classes for our potato classification.
+
 requirements.txt: this is a Lists of all dependencies required to run the project.
 
 Getting Started
